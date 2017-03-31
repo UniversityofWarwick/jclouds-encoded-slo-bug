@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jclouds-encoded-slo-bug.iml" filepath="$PROJECT_DIR$/.idea/modules/jclouds-encoded-slo-bug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1989303719/jclouds-encoded-slo-bug_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1989303719/jclouds-encoded-slo-bug_main.iml" group="jclouds-encoded-slo-bug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1989303719/jclouds-encoded-slo-bug_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1989303719/jclouds-encoded-slo-bug_test.iml" group="jclouds-encoded-slo-bug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1989303719/pkgs-jclouds-encoded-slo-bug.iml" filepath="$PROJECT_DIR$/.idea/modules/1989303719/pkgs-jclouds-encoded-slo-bug.iml" />
+    </modules>
+  </component>
+</project>
